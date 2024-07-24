@@ -1,10 +1,10 @@
 import { Text, View, StyleSheet } from "react-native";
 
-export default function Index() {
+export default function Anime() {
   return (
     <View style={styles.container}>
-      <Text>Edit app/index.tsx to edit this screen. (Index.)</Text>
-      <Text>Tab [Home | Settings]</Text>
+      <Text>Edit app/index.tsx to edit this screen. (Anime.)</Text>
+      <Text>Tab [Home | Habit | Anime |Settings]</Text>
     </View>
   );
 }
